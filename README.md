@@ -1,6 +1,6 @@
 # Aula Pull Requests
 
-Exercício feito na aula de 02 de dezembro de 2024
+Exercício feito na aula de 02 de dezembro de 2024.
 
 Curso de ADS IFPB - Cajazeiras.
 
